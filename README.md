@@ -7,3 +7,8 @@ I am taking the data science set of courses offered for free on the website cour
 
 ## This is a secondary heading
 ### This is a tertiary heading
+
+*Water
+*potatoes
+*bread
+*sunglasses
